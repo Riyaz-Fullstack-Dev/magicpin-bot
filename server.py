@@ -21,7 +21,7 @@ def metadata():
         "name": "Vera Bot",
         "version": "1.0",
         "description": "magicpin merchant AI assistant",
-        "author": "your-name",
+        "author": "Md Riyajul Islam",
         "model": "llama-3.3-70b-versatile",
         "capabilities": ["merchant_messaging", "customer_messaging", "multi_turn"]
     })
